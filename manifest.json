@@ -14,4 +14,14 @@
         "Value": "https://raw.githubusercontent.com/sweater0703/classisland-mgmt-cfg/master/subjects.json",
         "Version": 2
     }
+    {
+    "DisableProfileClassPlanEditing": true,
+    "DisableProfileTimeLayoutEditing": true,
+    "DisableProfileSubjectsEditing": true,
+    "DisableProfileEditing": true,
+    "DisableSettingsEditing": true,
+    "DisableSplashCustomize": true,
+    "DisableDebugMenu": true,
+    "AllowExitManagement":false
+}
 }
