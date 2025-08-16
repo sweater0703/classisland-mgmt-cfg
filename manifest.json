@@ -13,15 +13,11 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/sweater0703/classisland-mgmt-cfg/master/subjects.json",
         "Version": 2
+    },
+    
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
     }
-    {
-    "DisableProfileClassPlanEditing": true,
-    "DisableProfileTimeLayoutEditing": true,
-    "DisableProfileSubjectsEditing": true,
-    "DisableProfileEditing": true,
-    "DisableSettingsEditing": true,
-    "DisableSplashCustomize": true,
-    "DisableDebugMenu": true,
-    "AllowExitManagement":false
-}
+    
 }
