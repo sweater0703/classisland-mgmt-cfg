@@ -1,7 +1,7 @@
 {
   
     "ServerKind": 0,
-    "OrganizationName": "Hello",    
+    "OrganizationName": "OURCLASSISLAND",    
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/sweater0703/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
