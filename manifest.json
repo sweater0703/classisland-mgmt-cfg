@@ -1,10 +1,10 @@
 {
   
     "ServerKind": 0,
-    "OrganizationName": "OURCLASSISLAND",    
+    "OrganizationName": "OURCLASSISLAND",
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/sweater0703/classisland-mgmt-cfg/master/policy.json",
-        "Version": 1
-    }
+       "Value": "https://raw.githubusercontent.com/sweater0703/classisland-mgmt-cfg/master/policy.json",
+       "Version": 1
+   }
     
 }
